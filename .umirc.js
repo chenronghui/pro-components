@@ -56,4 +56,6 @@ export default {
   dynamicImport: {
     loading: '@ant-design/pro-skeleton',
   },
+  publicPath: '/pro-components/',
+  base: '/pro-components/',
 };
